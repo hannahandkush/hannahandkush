@@ -9,26 +9,20 @@
   </a>
 </p>
 
-<!-- Social badges -->
-<p align="center">
-  <a href="mailto:hannah.nathanson23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hannah.nathanson23-2d6a4f?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-52b788?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=2d6a4f&label=PROFILE+VIEWS" />
-</p>
-
 ---
 
-## 🌿 About Me
+## About
 
 ```python
 hannah = {
     "role":     "MSc Green Data Science @ University of Lisbon (ISA)",
     "mission":  "Engineering data pipelines and models for nature-positive impact",
-    "focus":    ["Biodiversity modelling", "Carbon accounting", "Sustainability analytics", "Natural Resource Economics],
+    "focus":    [
+                  "Biodiversity modelling",
+                  "Carbon accounting",
+                  "Sustainability analytics",
+                  "Natural Resource Economics"
+                ],
     "field":    "10+ years in ecological research across Spain, Mexico & Indonesia",
     "seeking":  "Data Science / Data Engineering internship — sustainability sector",
     "location": "📍 Lisbon, Portugal",
@@ -36,46 +30,55 @@ hannah = {
 }
 ```
 
----
 
-## 🛠️ Tech Stack
 
-<p align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  &nbsp;
-  <!-- Pandas / NumPy via shields -->
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="30"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="30"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="30"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white" height="30"/>
-  &nbsp;
-  <!-- Jupyter -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45"/>
-  &nbsp;
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  &nbsp;
-  <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
+## Teach Stack
+
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Remote%20Sensing-UAV%20%26%20LiDAR-2d6a4f?style=for-the-badge&logo=satellite&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/ETL%20Pipelines-Data%20Engineering-52b788?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Machine%20Learning-Applied%20ML-1b4332?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/GIS%20%26%20Geospatial-Analysis-40916c?style=for-the-badge&logo=qgis&logoColor=white" />
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>
 </p>
 
----
+<p align="center">
+  <!-- Row 3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50"/>
+</p>
 
-## 🎓 Education & Coursework
+<p align="center">
+  <!-- Row 4 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="50"/>
+</p>
+
+<p align="center">
+  <!-- Row 5 -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" height="50"/>
+</p>
+
+
+## Education
 
 | Degree | Institution | Key Modules |
 |--------|-------------|-------------|
@@ -83,9 +86,9 @@ hannah = {
 | 🏫 **PGCE Secondary Science** *(Outstanding)* | University of Exeter | Science pedagogy · Research methods |
 | 🦎 **BSc Zoology** — *First Class Honours* | University of Reading | Ecology · Bioinformatics · Statistics · Faculty Award: Best Dissertation |
 
----
 
-## 🌍 Field Experience
+
+## Field Experience
 
 > *My data science work is grounded in real-world environmental contexts*
 
@@ -95,29 +98,45 @@ hannah = {
 | 2017 | **Habitat Surveyor — Carbon Value Assessment** | Operation Wallacea, 🇮🇩 | **REDD+ carbon accounting** via 50m² rainforest habitat plots |
 | 2015 | Research Assistant | Operation Wallacea, 🇲🇽 | Multi-method biodiversity data collection: mist netting, camera traps, habitat surveys |
 
----
 
-## 🔭 What I'm Working On
+
+## Awards
+
+<div align="center">
+
+![Research](https://img.shields.io/badge/🐍_Research-Best_Biological_Dissertation_%7C_UoR-blue?style=for-the-badge)
+![Writing](https://img.shields.io/badge/📝_Writing-Best_Printed_Media_Article_%7C_RSU-green?style=for-the-badge)
+![Design](https://img.shields.io/badge/🎨_Design-Runner--Up_Scenic_Design_%7C_NODA-purple?style=for-the-badge)
+
+</div>
+
+
+
+## Current Projects
 
 - 🌱 **MSc Thesis** — applying data science methods to agri-environmental systems at ISA/ULisboa
 - 📡 **UAV & LiDAR** module — remote sensing for vegetation and land cover classification
 - 🧪 **Data Science Hackathon Project** — end-to-end pipeline for environmental dataset
 - 🔍 Looking for a **sustainability data internship** in Lisbon or remote
 
----
 
-## 💬 Let's Connect
+
+<h2 align="center">Contact</h2>
 
 <p align="center">
-  <i>"I would love to hear from you"</i>
+  <sub>Open to opportunities, collaborations, or just a chat</sub>
 </p>
 
 <p align="center">
-  <a href="mailto:hannah.nathanson23@gmail.com">
-    <img src="https://img.shields.io/badge/Say%20Hello!-hannah.nathanson23%40gmail.com-2d6a4f?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:hannah.nathanson23@gmail.com" title="Email">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:52b788,50:2d6a4f,100:1a3a2a&height=120&section=footer&animation=fadeIn" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/hannahandkush" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+  </a>
 </p>
