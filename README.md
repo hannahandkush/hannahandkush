@@ -61,24 +61,34 @@ Master’s student in Green Data Science with a first-class degree in Zoology, c
 
 ## Education
 
-| Degree | Institution | Key Modules |
-|--------|-------------|-------------|
-| 🌿 **MSc Green Data Science** *(in progress)* | University of Lisbon (ISA) | Applied ML · Python · Data Mgmt & Storage · Agro-Environmental Data Analysis · UAV & LiDAR · ETL Pipelines · Data Science Hackathon |
-| 🏫 **PGCE Secondary Science** *(Outstanding)* | University of Exeter | Science pedagogy · Research methods |
-| 🦎 **BSc Zoology** — *First Class Honours* | University of Reading | Ecology · Bioinformatics · Statistics · Faculty Award: Best Dissertation |
+<p><strong>MSc Green Data Science</strong> &nbsp;·&nbsp; University of Lisbon (ISA) &nbsp;·&nbsp; <em>in progress</em><br>
+<sub>Applied ML · Python · Data Management · UAV & LiDAR · Fire Behaviour · Natural Resource Economics</sub></p>
 
+<p><strong>PGCE Secondary Science</strong> &nbsp;·&nbsp; University of Exeter &nbsp;·&nbsp; <em>Outstanding</em><br>
+<sub>Science Pedagogy · Communication · Metacognition · Leadership</sub></p>
 
+<p><strong>BSc Zoology</strong> &nbsp;·&nbsp; University of Reading &nbsp;·&nbsp; <em>First Class Honours</em><br>
+<sub>Ecology · Bioinformatics · Statistics · Phylogenetic Modelling</sub></p>
 
-## Field Experience
+## Research Experience
 
 > *My data science work is grounded in real-world environmental contexts*
 
-| Year | Role | Location | Relevance |
+| Year | Topic | Location | Relevance |
 |------|------|----------|-----------|
-| 2018 | Research Assistant | Estación Biológica de Doñana, 🇪🇸 | Amphibian dataset collation & morphometric data analysis |
-| 2017 | **Habitat Surveyor — Carbon Value Assessment** | Operation Wallacea, 🇮🇩 | **REDD+ carbon accounting** via 50m² rainforest habitat plots |
-| 2015 | Research Assistant | Operation Wallacea, 🇲🇽 | Multi-method biodiversity data collection: mist netting, camera traps, habitat surveys |
+| 2018 | Phenotypic plasticity | Spain 🇪🇸 | Amphibian dataset collation & morphometric data analysis |
+| 2017 | Carbon Value Assessment | Indonesia 🇮🇩 | REDD+ carbon accounting via 50m² rainforest habitat plots |
+| 2016 | Phylogynetic Modeling | Indonesia 🇮🇩 | Computational modeling of evolutionary relationships with Bayestraits |
+| 2015 | Biodiversity | Mexico 🇲🇽 | Multi-method biodiversity data collection |
 
+
+## Recent Projects
+
+- **UAV** — Geospatial modeling for forest health assessments
+- **Big Data** - HPC Land-use model development with Sentinel-2 Data
+- **Python** - Desktop GUI app, interactive library game
+- **SQL** - Scalable relational database and automated data pipeline for cross-country crop breeding analysis
+- **R** - 3D forestry modeling from Lidar data
 
 
 ## Awards
@@ -90,16 +100,6 @@ Master’s student in Green Data Science with a first-class degree in Zoology, c
 ![Design](https://img.shields.io/badge/🎨_Design-Runner--Up_Scenic_Design_%7C_NODA-purple?style=for-the-badge)
 
 </div>
-
-
-
-## Current Projects
-
-- 🌱 **MSc Thesis** — applying data science methods to agri-environmental systems at ISA/ULisboa
-- 📡 **UAV & LiDAR** module — remote sensing for vegetation and land cover classification
-- 🧪 **Data Science Hackathon Project** — end-to-end pipeline for environmental dataset
-- 🔍 Looking for a **sustainability data internship** in Lisbon or remote
-
 
 
 <h2 align="center">Contact</h2>
