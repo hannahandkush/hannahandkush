@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a2a,50:2d6a4f,100:52b788&height=200&section=header&text=Hannah%20Nathanson&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Green%20Data%20Scientist%20%7C%20Conservationist%20%7C%20MSc%20%40%20ULisboa&descAlignY=58&descSize=18&animation=fadeIn" />
-</p>
+![Banner](readmebanner.gif)
 
 <!-- Typing animation -->
 <p align="center">
