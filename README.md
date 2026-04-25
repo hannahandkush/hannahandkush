@@ -11,24 +11,7 @@
 
 ## About
 
-```python
-hannah = {
-    "role":     "MSc Green Data Science @ University of Lisbon (ISA)",
-    "mission":  "Engineering data pipelines and models for nature-positive impact",
-    "focus":    [
-                  "Biodiversity modelling",
-                  "Carbon accounting",
-                  "Sustainability analytics",
-                  "Natural Resource Economics"
-                ],
-    "field":    "10+ years in ecological research across Spain, Mexico & Indonesia",
-    "seeking":  "Data Science / Data Engineering internship — sustainability sector",
-    "location": "📍 Lisbon, Portugal",
-    "languages": {"English": "native", "Spanish": "B2", "Portuguese": "A1+", "Catalan": "A2"}
-}
-```
-
-
+Master’s student in Green Data Science with a first-class degree in Zoology, combining technical skills in data science with domain expertise in climate, biodiversity, and land-use systems. Experienced working across the full data lifecycle, from data collection and pipeline design to modelling and visualization alongside communication and presentation skills.
 
 ## Teach Stack
 
