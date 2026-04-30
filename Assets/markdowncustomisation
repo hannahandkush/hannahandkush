@@ -1,4 +1,5 @@
-### HTML Styling 
+### Markdown Styling - CSS within HTML wrapper
+
 Only visible in tools/apps that render Markdown with custom CSS support ie. Visual Studio Code, Obsidian, Typora
 Not visible on github
 
