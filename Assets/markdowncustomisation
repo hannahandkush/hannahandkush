@@ -1,0 +1,117 @@
+### HTML Styling 
+Only visible in tools/apps that render Markdown with custom CSS support ie. Visual Studio Code, Obsidian, Typora
+Not visible on github
+
+<style>
+  /* =====================
+     H1 - Main Page Title
+     ===================== */
+  h1 {
+    text-align: center;          /* Center the title text */
+    color: #ffffff;              /* Title text color (white) */
+    background-color: #00b2ff;  /* Fallback background color (blue) */
+    padding: 10px;               /* Space inside the title box */
+    background-image: linear-gradient(to right, #00b2ff, #000000); /* Gradient: blue → black */
+    border-top: 6px solid #00b2ff; /* Top accent border color */
+  }
+
+  /* =====================
+     H2 - Section Headings
+     ===================== */
+  h2 {
+    border-bottom: 3px solid #00b2ff; /* Underline color and thickness */
+    padding: 5px;                      /* Space inside the heading */
+    background-image: linear-gradient(to right, #00b2ff, #000000); /* Gradient: blue → black */
+  }
+
+  /* =====================
+     STRONG - Bold Text
+     ===================== */
+  strong {
+    font-weight: bold;                  /* Makes text bold */
+    color: #e74057;                     /* Text color (red) */
+    border-radius: 10px;                /* Rounds the corners of the border box */
+    border-bottom: 1px solid #e74057;   /* Bottom border color */
+    border-top: 1px solid #e74057;      /* Top border color */
+    padding: 5px;                       /* Space between text and border */
+  }
+
+  /* =====================
+     EM - Italic Text
+     ===================== */
+  em {
+    font-style: italic;        /* Makes text italic */
+    letter-spacing: 0.1em;    /* Spreads letters slightly */
+    color: #e74057;            /* Text color (red) */
+  }
+
+  /* =====================
+     DEL - Strikethrough Text
+     ===================== */
+  del {
+    text-decoration: line-through; /* Draws a line through the text */
+    color: #e74057;                /* Text color (red) */
+    /*background-color: #ffffff;*/ /* Uncomment to add a white background */
+    /*padding: 2px;*/              /* Uncomment to add padding */
+    /*border-radius: 5px;*/        /* Uncomment to round the background corners */
+  }
+
+  /* =====================
+     INS - Underlined Text
+     ===================== */
+  ins {
+    text-decoration: underline;         /* Underlines the text */
+    color: #e74057;                     /* Text color (red) */
+    border-bottom: 1px solid #e74057;   /* Bottom border color */
+    border-top: 1px solid #e74057;      /* Top border color */
+    padding: 5px;                       /* Space between text and border */
+  }
+
+  /* =====================
+     UL - Unordered Lists
+     ===================== */
+  ul {
+    li {
+      /*list-style-type: circle;*/  /* Uncomment for circle bullets */
+      list-style-type: square;      /* Current bullet style (square) */
+      /*list-style-type: '> ';*/    /* Uncomment to use '>' as bullet */
+      margin-bottom: 5px;           /* Space between list items */
+      /*text-decoration: underline solid #00b2ff 2px;*/ /* Uncomment for underlined items */
+      /*border-bottom: 1px solid #00b2ff;*/             /* Uncomment for a line under each item */
+    }
+  }
+
+  /* =====================
+     P - Paragraphs
+     ===================== */
+  p {
+    margin-bottom: 10px;    /* Space below each paragraph */
+    letter-spacing: 0.1em; /* Spreads letters slightly */
+  }
+
+  /* =====================
+     TR/TH/TD - Tables
+     ===================== */
+  tr {
+    th {
+      background-color: #00b2ff; /* Header cell background color (blue) */
+      color: #ffffff;             /* Header cell text color (white) */
+      padding: 10px;              /* Space inside header cells */
+    }
+
+    td {
+      padding: 10px; /* Space inside regular cells */
+    }
+  }
+
+  /* =====================
+     BLOCKQUOTE
+     ===================== */
+  blockquote {
+    border-left: 6px solid #00b2ff; /* Left accent bar color and width */
+    padding: 10px;                   /* Space inside the blockquote */
+    margin: 10px 0;                  /* Space above and below the blockquote */
+    border-radius: 6px;              /* Rounds the corners */
+    /*background-color: #3f3f3f;*/   /* Uncomment for a dark background */
+  }
+</style>
