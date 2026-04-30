@@ -1,4 +1,4 @@
-![Banner](readmebanner.gif)
+![Banner](/Assets/readmebanner.gif)
 
 <!-- Typing animation -->
 <p align="center">
